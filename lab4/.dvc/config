@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "mlops_hw_4_disk"']
+    url = gdrive://1Iq9rfXxFLk5VNL_pxNHUlbCzDtNicSxu
